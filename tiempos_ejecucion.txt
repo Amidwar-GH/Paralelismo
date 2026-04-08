@@ -1,0 +1,15 @@
+Matriz 3x3 | Tiempo: 1661 microsegundos
+Matriz 3x3 | Tiempo: 0 microsegundos
+Matriz 3x3 | Tiempo: 1651 microsegundos
+Matriz 3x3 | Tiempo: 2016 microsegundos
+Matriz 3x3 | Tiempo: 0 microsegundos
+Matriz 10x10 | Tiempo: 9520 microsegundos
+Matriz 10x10 | Tiempo: 3274 microsegundos
+Matriz 10x10 | Tiempo: 0 microsegundos
+Matriz 10x10 | Tiempo: 0 microsegundos
+Matriz 10x10 | Tiempo: 4050 microsegundos
+Matriz 20x20 | Tiempo: 5613 microsegundos
+Matriz 20x20 | Tiempo: 0 microsegundos
+Matriz 20x20 | Tiempo: 0 microsegundos
+Matriz 20x20 | Tiempo: 8622 microsegundos
+Matriz 20x20 | Tiempo: 5655 microsegundos

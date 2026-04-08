@@ -6,7 +6,7 @@
 
 using namespace std;
 
-const int N=3; 
+const int N=20; 
 
 long int arrA[N][N];
 long int arrB[N][N];
@@ -27,7 +27,7 @@ void pedirDatosMatrizA(){
     cout<<"Digite los numeros de la primera matriz:\n";
     for(int i=0; i<N; i++){
         for(int j=0; j<N; j++){
-            arrA[i][j]=rand()%10; //generamos numeros aleatorios entre 0 y 9
+            arrA[i][j]=rand()%20; //generamos numeros aleatorios entre 0 y 9
         }
     }
 }
@@ -36,7 +36,7 @@ void pedirDatosMatrizB(){
     cout<<"Digite los numeros de la segunda matriz:\n"; // Corregido el texto
     for(int i=0; i<N; i++){
         for(int j=0; j<N; j++){
-            arrB[i][j]=rand()%10;
+            arrB[i][j]=rand()%20;
         }
     }
 }
